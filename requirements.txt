@@ -1,2 +1,2 @@
-jina
+jina>=1.0
 jupyter
