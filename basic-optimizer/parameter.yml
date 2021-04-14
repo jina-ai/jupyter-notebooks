@@ -1,0 +1,5 @@
+- !IntegerParameter
+  jaml_variable: JINA_ENCODER_LAYER
+  high: 2
+  low: 0
+  step_size: 1
